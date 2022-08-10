@@ -1,0 +1,17 @@
+#title{
+    background-color: black;
+    color: white;
+}
+.olu{
+    font-size: 34px;
+}
+.footer{
+    margin: 10rem;
+}
+
+img{
+    max-width: 70%
+    ;max-height: 70%;
+    margin-top: 3rem;
+    text-align: center;
+}
